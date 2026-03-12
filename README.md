@@ -18,15 +18,11 @@ I've worked on interactive media, generative art, and web applications. I care a
 
 <table>
 <tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Syantw&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0d1117&title_color=238636&icon_color=238636&card_width=400" height="220"/>
-
+<td width="50%" style="height:220px; vertical-align:middle">
+<img src="https://github-readme-stats.vercel.app/api?username=Syantw&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0d1117&title_color=238636&icon_color=238636&card_width=380" style="height:220px; width:auto; max-width:100%; object-fit:contain; display:block; margin:0 auto"/>
 </td>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syantw&layout=compact&theme=vue-dark&hide_border=true&bg_color=0d1117&title_color=238636&hide=html&card_width=400" height="220"/>
-
+<td width="50%" style="height:220px; vertical-align:middle">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syantw&layout=compact&theme=vue-dark&hide_border=true&bg_color=0d1117&title_color=238636&hide=html&langs_count=8&card_width=380" style="height:220px; width:auto; max-width:100%; object-fit:contain; display:block; margin:0 auto"/>
 </td>
 </tr>
 </table>
