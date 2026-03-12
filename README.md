@@ -14,7 +14,6 @@
 <tr>
 <td width="50%">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand.png" alt="wave" width="28"/> about
 
 Hi, I'm **Tingwei**. I'm a developer based in **Seattle**, focused on building tools that make reading and learning more enjoyable. I like to work where design, content, and AI meet — creating interfaces that feel both useful and thoughtful.
 
