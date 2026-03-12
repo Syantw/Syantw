@@ -20,12 +20,12 @@ I've worked on interactive media, generative art, and web applications. I care a
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Syantw&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0d1117&title_color=238636&icon_color=238636" height="195"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Syantw&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0d1117&title_color=238636&icon_color=238636&card_width=400" height="220"/>
 
 </td>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syantw&layout=compact&theme=vue-dark&hide_border=true&bg_color=0d1117&title_color=238636&hide=html,css,scss" height="195"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syantw&layout=compact&theme=vue-dark&hide_border=true&bg_color=0d1117&title_color=238636&hide=html&card_width=400" height="220"/>
 
 </td>
 </tr>
