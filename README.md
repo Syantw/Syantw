@@ -14,7 +14,7 @@
 
 Hi, I'm **Tingwei**. I'm a developer based in **Seattle**, focused on building tools that make learning and knowledge work more enjoyable. I like to work where design, content, and AI meet — creating interfaces that feel both useful and thoughtful.
 
-I've worked on interactive media, generative art, and web applications. I care about clean UI, clear information architecture, and experiences that respect the user's time. Lately I've been exploring how LLMs can help with comprehension, summarization, and knowledge organization — from reading apps to mobile automation agents.
+I've worked on interactive media, generative art, and web applications. I care about clean UI, clear information architecture, and experiences that respect the user's time. Lately I've been exploring how LLMs can help with comprehension, summarization, and knowledge organization — from reading apps to mobile automation agents — and with **Trip Weaver**, how AI can assist on-the-ground travel planning with maps and collaborative itineraries.
 
 
 
@@ -24,6 +24,7 @@ I've worked on interactive media, generative art, and web applications. I care a
 
 | Project                                                      | Description                                                                                                                                                                | Stack                               |
 | ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
+| [Trip Weaver](https://github.com/Syantw/trip-weaver)         | Collaborative travel planner: map + itinerary, AI explore recommendations, buddy spot proposals & votes, trip expense from stop costs                                        | React, TypeScript, Vite, Supabase, Gemini |
 | [Lumière](https://github.com/Syantw/lumiere-note-deck)       | Reading & notes app with AI summaries, daily reads from curated feeds, and book fragment management                                                                        | React, TypeScript, Supabase, Gemini |
 | [AI Agent](https://github.com/Syantw/AI)                     | AI-driven mobile automation: natural language control for iOS/Android via local LLM (llama3) + Mobile MCP. Supports ngrok public tunnel and Consul-based service discovery | Python, Flask, Ollama, Node.js, MCP |
 | [Tactile-Map-Web](https://github.com/Syantw/Tactile-Map-Web) | Web tool for tactile map creation and annotation using raw JSON from a customized robot                                                                                    | React, Vite, Leaflet                |
